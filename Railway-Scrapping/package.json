@@ -1,0 +1,28 @@
+{
+  "name": "railway-scrapping",
+  "version": "1.0.0",
+  "description": "scrappind real time railway datas ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenSource-Kerala/train-tracker.git"
+  },
+  "keywords": [
+    "Realtime-railway-data",
+    "kerala",
+    "open",
+    "source"
+  ],
+  "author": "Open Source",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenSource-Kerala/train-tracker/issues"
+  },
+  "homepage": "https://github.com/OpenSource-Kerala/train-tracker#readme"
+}
